@@ -1,1 +1,3 @@
-checking git for adding and removing file 
+checking git for adding and removing file
+changing the text for testing
+ 
